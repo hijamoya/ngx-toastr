@@ -1,10 +1,10 @@
 {
-  "name": "ngx-toastr",
+  "name": "ngx-toastr-ex",
   "description": "Toastr for Angular",
   "homepage": "https://github.com/scttcper/ngx-toastr",
   "bugs": "https://github.com/scttcper/ngx-toastr/issues",
   "repository": "scttcper/ngx-toastr",
-  "version": "0.0.0-placeholder",
+  "version": "9.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
